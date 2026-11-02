@@ -1,6 +1,6 @@
 # Kavali Yashwanth Royal
 
-Data engineer in India. I build pipelines that land messy data, test it, and
+Data engineer in Bangalore. I build pipelines that land messy data, test it, and
 refuse to publish a number that fails a check — Python, SQL, PySpark, dbt, Kafka
 and AWS.
 
@@ -31,5 +31,6 @@ edges than found them.
 
 ## Contact
 
-- Email: 176301502+Yashu24-coder@users.noreply.github.com
+- Email: yashwanthroyal9133@gmail.com
+- LinkedIn: [yashwanth-royal-kavali](https://www.linkedin.com/in/yashwanth-royal-kavali-226378259)
 - GitHub: [@Yashu24-coder](https://github.com/Yashu24-coder)
