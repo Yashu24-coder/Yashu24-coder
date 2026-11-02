@@ -4,6 +4,8 @@ Data engineer in Bangalore. I build pipelines that land messy data, test it, and
 refuse to publish a number that fails a check — Python, SQL, PySpark, dbt, Kafka
 and AWS.
 
+**Portfolio: [yashu24-coder.github.io](https://yashu24-coder.github.io)**
+
 Right now I am working the stack end to end: batch on AWS, streaming with Kafka
 and Spark, and the dbt transformation layer on top. Four projects, each runnable
 from a clone, each with the tests and the numbers to back it up.
@@ -31,6 +33,7 @@ edges than found them.
 
 ## Contact
 
+- Portfolio: [yashu24-coder.github.io](https://yashu24-coder.github.io)
 - Email: yashwanthroyal9133@gmail.com
 - LinkedIn: [yashwanth-royal-kavali](https://www.linkedin.com/in/yashwanth-royal-kavali-226378259)
 - GitHub: [@Yashu24-coder](https://github.com/Yashu24-coder)
